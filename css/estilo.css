@@ -1,0 +1,42 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+header {
+	border-bottom: 1px solid #E6E6E6;
+}
+
+header nav ul li a {
+	color: white !important;
+/*	text-shadow: 1px 1px 3px black;*/
+}
+
+/*header nav ul li a:hover {
+	color: #ffc107 !important;
+	background: white ;
+	border-radius: 5px;
+	text-shadow: none;
+}
+*/
+.botão {
+	background: white;
+	color: #ffc107;
+	text-shadow: none;
+}
+
+.botão:hover {
+	background: #EEEDEB;
+}
+
+/*principal*/
+
+
+.caixa {
+	padding: 60px 0px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
